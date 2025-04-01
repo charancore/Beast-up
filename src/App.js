@@ -18,5 +18,5 @@ const App = () => (
     <Footer />
   </Box>
 );
-
+// Compare this snippet from src/utils/fetchData.js:
 export default App;
